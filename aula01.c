@@ -6,6 +6,7 @@
 Aula Git
 */
 
+int num;
 
 int main(){
 
